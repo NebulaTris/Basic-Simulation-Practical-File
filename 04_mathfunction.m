@@ -1,7 +1,7 @@
 %{
   EXPERIMENT-4(A)
   AIM:Evaluating a given expression and rounding it to the nearest integer value using Round,Floor,Ceil and Fix Functions.
-  SOFTWARE USED:MATLAB 7.12.0(R2011a)
+  SOFTWARE USED:MATLAB 9.12.0(R2022a)
  %}
  
 %Round
@@ -23,7 +23,7 @@ fix(-50.55555)
   %{
   EXPERIMENT-4(B)
   AIM:Generating and Plots of Trigonometric Functions-sin(t),cos(t),tan(t),sec(t),cosec(t) and cot(t) for a given duration, 't'.
-  SOFTWARE USED:MATLAB 7.12.0(R2011a)
+  SOFTWARE USED:MATLAB 9.12.0(R2022a)
  %}
 %Generating and Plotting Trigonometric functions
 t=-pi:0.1:pi
@@ -113,7 +113,7 @@ title('Cot(t)')
  %{
   EXPERIMENT-4(C)
   AIM:Generating and Plots of Logarithmic and other Functions-log(A),log10(A),Square Root of A,Real nth root of A.
-  SOFTWARE USED:MATLAB 7.12.0(R2011a)
+  SOFTWARE USED:MATLAB 9.12.0(R2022a)
  %}
 X=1:1:20
 %Log(X)
