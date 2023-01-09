@@ -1,7 +1,7 @@
 %{
   EXPERIMENT-2(A)
   AIM: Performing Matrix Manipulations-Concatenating,Indexing,Sorting,Shifting,Reshaping,Resizing and Flipping about a Vertical Axis/Horizontal Axis.
-  SOFTWARE USED:MATLAB 7.12.0(R2011a) 
+  SOFTWARE USED:MATLAB 9.12.0(R2022a) 
     %}
 A=[70 50 30;10 100 90;40 60 20]
 B=[20 100 70;40 30 50;10 90 60]
@@ -41,7 +41,7 @@ flipud(A)
 %{
   EXPERIMENT-2(B)
   AIM: Creating Arrays X & Y of given size (1 x N) and Performing Relational Operations- >,<,==,<=,>=,~=
-  SOFTWARE USED:MATLAB 7.12.0(R2011a) 
+  SOFTWARE USED:MATLAB 9.12.0(R2022a) 
     %}
  
 A=[10 30:50 70]
@@ -68,7 +68,7 @@ ne(A,B)
 %{
   EXPERIMENT-2(C)
   AIM: Creating Arrays X & Y of given size (1 x N) and Performing Logical Operations- ~,&,|,XOR
-  SOFTWARE USED:MATLAB 7.12.0(R2011a) 
+  SOFTWARE USED:MATLAB 9.12.0(R2022a) 
     %}
 A=[1 0 1 0 1]
 B=[1 0 0 0 1]
