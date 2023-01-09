@@ -1,7 +1,7 @@
 %{
   EXPERIMENT-5
   AIM:Creating a vector X with elements, Xn=(-1)^(n+1)/(2n-1) and Adding up 100 elements of the vector, X; And,plotting the functions, x,x^3,e^x,exp(x^2) over the interval 0<x<4 (by choosing appropriate mesh values for x to obtain smooth curves), on A Rectangular Plot.
-  SOFTWARE USED:MATLAB 7.12.0(R2011a)
+  SOFTWARE USED:MATLAB 9.12.0(R2022a)
   %}
 
 %Creating Vector X
