@@ -1,7 +1,7 @@
 %{
 EXPERIMENT-6
 AIM:Generating a Sinusoidal Signal of a given frequency (say,100Hz) and Plotting with Graphical Enhancements;Titling, Labeling,Adding Text,Adding Legends,Adding New Plots to Existing Plot,Printing Text in Greek Letters,Plotting as Multiple and Subplot.
-SOFTWARE USED: MATLAB 7.12.0(R2011a)
+SOFTWARE USED: MATLAB 9.12.0(R2022a)
   %}
 %Generating parameter t
 t=0:0.05*pi:2*pi
