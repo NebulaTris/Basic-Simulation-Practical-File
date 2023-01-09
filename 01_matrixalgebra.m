@@ -1,7 +1,7 @@
 %{
 EXPERIMENT 1(A)
 AIM: Creating a One-Dimensional Array(Row/Column Vector) ; Creating a Two-Dimensional Array(Matrix of given size)
-SOFTWARE USED: MATLAB 7.12.0(R2011a)
+SOFTWARE USED: MATLAB 9.12.0(R2022a)
   %}
 
 %One Dimensional Array
