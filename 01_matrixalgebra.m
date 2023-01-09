@@ -14,7 +14,7 @@ B=[10 20 30;40 50 60;70 80 90]
 %{
 EXPERIMENT 1(B)
 AIM: Performing Arithmetic Operations-Addition,Subtraction,Multiplication and Exponentiation
-SOFTWARE USED: MATLAB 7.12.0(R2011a)
+SOFTWARE USED: MATLAB 9.12.0(R2022a)
   %}
 
 A=[10 30 50;20 40 60;70 90 110]
@@ -36,7 +36,7 @@ C=exp(A)
 %{
 EXPERIMENT 1(C)
 AIM: Performing Matrix Operation-Inverse,Transpose,Rank.
-SOFTWARE USED: MATLAB 7.12.0(R2011a)
+SOFTWARE USED: MATLAB 9.12.0(R2022a)
   %}
 %Inverse
 B=inv(A)
