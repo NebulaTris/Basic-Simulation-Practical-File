@@ -18,7 +18,6 @@ else if(0<T && T<100)
   fprintf('For T=%d',T)
   H=((0.45*T)+900)
   end
-  end
 end
 fprintf('H=%d',H)
   
